@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: July 30, 2017
+##### My first Coding Bootcamp day
+
+**Today's Progress**: First Bootcamp Day. I got my Atom completly set up. It's been a great idea to enroll to the course two months ago, because I had enough time to read. I have a commitment: work every single day in coding. And so do I, I have a couple of months work and I am enjoying every headache. 
+
+**Thoughts**: I wanted to discard those fancy hampering templates and pluggins for my text editor. I guess I have all I need now. I get new advise from my mentors. Training my Frustration Muscle, it's still a beginner!! 
+I changed my keyboard to EN.
+
+
 ### Day 1: July 28, 2017
 ##### Working on porfolio.
 
@@ -7,24 +16,4 @@
 
 **Thoughts:** I have to check the JS file again. The background is supposed to do some creative things when the mouse passes over the section. No new behavior shown.
 
-**Link to work:** [Arian Zargaran Porfolio](https://arianzargaran.github.io/12_col_grid/)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Arian Zargaran Porfolio](https://arianzargaran.github.io/12_col_grid/) /*NEEDS UPDATE*/
