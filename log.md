@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 2: July 30, 2017
+### Day 3: July 30, 2017
+##### Exercises finished!!
+
+**Today's Progress**: Reviewed HTML documentation. I completed all my Bootcamp exercises for the week, now can continue with my JS studies. 
+
+**Thoughts**: It's hard to conciliate days off with my demmanding objectives. I also try not to overwhelm with the 8,000 coding languages and new technologies, all present in the market. My tech debt is big, since I studied Communications. Fortunately, I always felt kind of connected to the tech world. As a Journalist, my inclusion to the coding field has been natural and gradual, something I really appreciate.
+
+
+### Day 2: July 29, 2017
 ##### My first Coding Bootcamp day
 
 **Today's Progress**: First Bootcamp Day. I got my Atom completly set up. It's been a great idea to enroll to the course two months ago, because I had enough time to read. I have a commitment: work every single day in coding. And so do I, I have a couple of months work and I am enjoying every headache. 
