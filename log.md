@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 6: August 2, 2017
+##### The job interview
+
+**Today's Progress**: Recruiters against Headhunters. 
+
+**Thoughts**: Complete the website WEEK 1. PICO.
+
+
+### Day 5: August 1, 2017
+##### Let's BEM.
+
+**Today's Progress**: SMACSS OOCSS BEM. 
+
+**Thoughts**: //Complete.
+
+**Link to work:** [Arian Zargaran WEEK1](https://arianzargaran.github.io/12_col_grid/) /*NEEDS UPDATE*/
+
+
+### Day 4: July 31, 2017
+##### Project completed!!
+
+**Today's Progress**: Overwatch. 
+
+**Thoughts**: //Complete.
+
+**Link to work:** [Arian Zargaran Overwatch project](https://arianzargaran.github.io/12_col_grid/) /*NEEDS UPDATE*/
+
+
 ### Day 3: July 30, 2017
 ##### Exercises finished!!
 
