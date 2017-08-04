@@ -1,11 +1,20 @@
 # 100 Days Of Code - Log
+### Day 7: August 3, 2017
+##### Asset completed
+
+**Today's Progress**: Finishing the projects. 
+
+**Thoughts**: WEEK 1. PICO Asset completed. 
+
+**Link to work:** [Arian Zargaran WEEK1](https://arianzargaran.github.io/week-1_PICO/)
+
 
 ### Day 6: August 2, 2017
 ##### The job interview
 
 **Today's Progress**: Recruiters against Headhunters. 
 
-**Thoughts**: Complete the website WEEK 1. PICO.
+**Thoughts**: Two days projects.
 
 
 ### Day 5: August 1, 2017
