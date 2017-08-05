@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+
+### Day 8: August 4, 2017
+##### EXTRA: Asset completed
+
+**Today's Progress**: One web in One day. 
+
+**Thoughts**: WEEK 1. STRICT Asset completed. 
+
+**Link to work:** [Arian Zargaran WEEK1, EXTRA ASSET](https://arianzargaran.github.io/week-1_STRICT/)
+
+
 ### Day 7: August 3, 2017
 ##### Asset completed
 
